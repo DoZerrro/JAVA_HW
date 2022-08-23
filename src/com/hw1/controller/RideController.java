@@ -43,7 +43,5 @@ public class RideController {
                 System.out.println(", 키 : " + onBoard[i].getHeight());;
             }
         }
-
     }
-
 }
