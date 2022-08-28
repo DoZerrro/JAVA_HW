@@ -1,4 +1,4 @@
-package com.hw6.controller;
+package com.hw5.controller;
 
 import java.util.Scanner;
 
