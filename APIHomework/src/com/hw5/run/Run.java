@@ -1,6 +1,6 @@
 package com.hw5.run;
 
-import com.hw6.NumberOk;
+import com.hw5.controller.NumberOk;
 
 import java.util.Scanner;
 
